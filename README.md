@@ -1,5 +1,6 @@
-### 김연수(Yeonsoo Kim)
+**김연수(Yeonsoo Kim)**
 
+[![HitCount](http://hits.dwyl.com/yskim0/{project}.svg)](http://hits.dwyl.com/yskim0/{project})
 
 <!--
 **yskim0/yskim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
