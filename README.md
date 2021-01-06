@@ -1,12 +1,11 @@
-**김연수(Yeonsoo Kim)**
+### Hi there, I'm Yeonsoo Kim 👋
 
-[![HitCount](http://hits.dwyl.com/yskim0/{project}.svg)](http://hits.dwyl.com/yskim0/{project})
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskim0&count_bg=%23606A84&title_bg=%23FFCFCF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on ETRI as a Intern. (Defence & Safety ICT Research Department)
 
 
-🌱 I’m currently learning ...
-
+💚 I’m currently interested in [Deep Learning, Computer Vision, NLP, Domain Adaptation, GAN]
 
 
 📫 How to reach me: wx12348@gmail.com
