@@ -1,11 +1,23 @@
-### Hi there, I'm Yonsoo Kim 👋
+## Hi there, I'm Yonsoo Kim 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskim0&count_bg=%23606A84&title_bg=%23FFCFCF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🔭 I’m currently working on **`ETRI`** as a Intern. (Defence & Safety ICT Research Department)
+### 🔭 Experiences
+- [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
+- [Intern] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
 
+### 🏅 Awards and Honors
+- **Industrial Control System Security Attack Detection AI Competition**
+    - Auspice by National Intelligence Service(NIS), Manage by National Security Research Institute
+    - Honorable Mention (in the top 10)
 
-💚 I’m currently interested in **`[Deep Learning, Computer Vision, NLP, Domain Adaptation, GAN]`**
+### 🚀 Extracurricular Activities (미완)
+- Euron 
+- DSC Ewha
+- Python Tutor
+- 
+
+💚 I’m currently interested in **`[Deep Learning, Voice Conversion, Computer Vision, NLP, Domain Adaptation, GAN]`**
 
 
 📫 How to reach me: wx12348@gmail.com
