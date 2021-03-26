@@ -17,7 +17,7 @@
 - Python Tutor
 - 
 
-💚 I’m currently interested in **`[Deep Learning, Computer Vision, NLP, Domain Adaptation, GAN]`**
+💚 I’m currently interested in **`[Deep Learning, Computer Vision, NLP, Recommendation System, GAN]`**
 
 
 📫 How to reach me: wx12348@gmail.com
