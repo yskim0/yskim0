@@ -3,8 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskim0&count_bg=%23606A84&title_bg=%23FFCFCF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🔭 Experiences
+- [Undergraduate researcher] `Graduate School of Data Science, Seoul National University` Visual Information Processing Lab (2021.04 ~)
 - [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
-- [Intern] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
+- [Undergraduate researcher] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
 
 ### 🏅 Awards and Honors
 - **Industrial Control System Security Attack Detection AI Competition**
