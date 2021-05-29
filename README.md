@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Yonsoo%20Kim&fontSize=90)
+
+
 ## Hi there, I'm Yonsoo Kim 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyskim0&count_bg=%23606A84&title_bg=%23FFCFCF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🔭 Experiences
 - [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
@@ -39,4 +41,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yskim0&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
