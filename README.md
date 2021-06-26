@@ -5,6 +5,7 @@
 
 
 ### 🔭 Experiences
+- [Undergraduate researcher]  (At present)
 - [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
 - [Undergraduate researcher] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
 
