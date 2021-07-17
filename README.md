@@ -16,7 +16,18 @@
     - Honorable Mention (in the top 10)
 
 ### 💥 Projects (미완)
-- 
+- KorBERT를 사용하여 범죄 유형 예측 태스크를 수행 (ETRI)
+- 수화 인식 AI 모델 개발
+    - YOLO, Fast R-CNN, Inception-v3 사용
+    - custom CNN 모델 개발
+- 시각화 차트 생성 AI 모델 개발
+    - raw data를 받아 적절한 시각화 plot을 그려주는 AI 모델 개발
+- 논문 Summary & Keyword 추출 모델 개발
+- AlexNet, ZFNet, ResNet50, U-Net, Deep Convolutional GAN(DCGAN) 모델 구현
+- Deep Q-Network(DQN)을 활용한 Pong 게임 구현
+- 피싱 URL detection 모델 개발
+- Transformer 구현
+
 
 ### 🚀 Extracurricular Activities (미완)
 - Euron (2021)
