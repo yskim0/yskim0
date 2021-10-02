@@ -6,7 +6,7 @@
 👻  *I’m currently working on **`Video Understanding`**
 
 ### 🔭 Experiences
-- [Undergraduate researcher]  `SNU GSDS` Visual Informtion Procesisng Lab (2021.07 ~ Present)
+- [Undergraduate researcher]  2021.07 ~ Present
 - [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
 - [Undergraduate researcher] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
 
