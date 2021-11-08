@@ -3,18 +3,23 @@
 
 ## Hi there, I'm Yonsoo Kim 👋
 
-👻  *I’m currently working on **`Video Understanding`**
+👻  *I’m currently working on **`Video Understanding, Vision Transformer`**
 
 ### 🔭 Experiences
-- [Undergraduate researcher]  2021.07 ~ Present
+- [Undergraduate researcher]  2021.07 ~ Present 
 - [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
 - [Undergraduate researcher] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
 
 ### 🏅 Awards and Honors
 - **Industrial Control System Security Attack Detection AI Competition**
-    - Auspice by National Intelligence Service(NIS), Manage by National Security Research Institute
+    - Auspice by National Intelligence Service(NIS, 국가정보원), Manage by National Security Research Institute(국가보안기술연구소)
     - Honorable Mention (in the top 10)
-
+- **Finance Data Contest 2021**
+    - Auspice and Manage by Financial Security Institute(FSI, 금융보안원)
+    - CEO Award of Korea Investment & Securities Co. (한국투자증권 대표이사 상)
+- **SW Entrepreneurship Competition**
+    - Auspice and Manage by Ewha W. Univ's Department of Computer Science and Engineering
+    - 2nd Place
 
 📫 How to reach me: wx12348@gmail.com
 
@@ -34,7 +39,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yskim0&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
