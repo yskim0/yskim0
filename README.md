@@ -1,25 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Yonsoo%20Kim&fontSize=90)
-
-
 ## Hi there, I'm Yonsoo Kim 👋
 
-👻  *I’m currently working on **`Video Understanding, Vision Transformer`**
+👻  I’m currently interested in **`Generative AI`, `Visual Representation Learning`, and `Video Understanding`**
+📍[LinkedIn](https://www.linkedin.com/in/%EC%97%B0%EC%88%98-%EA%B9%80-33899a1a2/)
+<br>
+📍[Blog](https://yskim0.github.io/)
 
 ### 🔭 Experiences
-- [Undergraduate researcher]  2021.07 ~ Present 
-- [Intern] `ETRI` Defence & Safety ICT Research Department  (2021.01 ~ 2021.02)
-- [Undergraduate researcher] `Ewha W. Univ.` Bioinformatics and Natural Language Processing Lab (2020.07 ~ 2020.08)
-
-### 🏅 Awards and Honors
-- **Industrial Control System Security Attack Detection AI Competition**
-    - Auspice by National Intelligence Service(NIS, 국가정보원), Manage by National Security Research Institute(국가보안기술연구소)
-    - Honorable Mention (in the top 10)
-- **Finance Data Contest 2021**
-    - Auspice and Manage by Financial Security Institute(FSI, 금융보안원)
-    - CEO Award of Korea Investment & Securities Co. (한국투자증권 대표이사 상)
-- **SW Entrepreneurship Competition**
-    - Auspice and Manage by Ewha W. Univ's Department of Computer Science and Engineering
-    - 2nd Place
+- `Assistant Coach` Naver Boostcamp Data-Centric CV (2023.11 - )
+- `Intern` Image Translation Team @ Papago, Naver Cloud (2023.04 - 2023.10)
+- `Assistant Coach` Alice AI Track 6th (2023.03 – 2023.04)
+- `Undergraduate Researcher` Visual Information Processing Lab. @ GSDS, Seoul National Univ. (2021.07 ~ 2023.02)
+- `Intern` Defence & Safety ICT Research Department @ ETRI (2021.01 ~ 2021.02)
+- `Undergraduate Researcher` Bioinformatics and Natural Language Processing Lab. @ Ewha Womans Univ. (2020.07 ~ 2020.08)
 
 📫 How to reach me: wx12348@gmail.com
 
