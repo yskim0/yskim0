@@ -1,6 +1,8 @@
 ## Hi there, I'm Yonsoo Kim 👋
 
 👻  I’m currently interested in **`Generative AI`, `Visual Representation Learning`, and `Video Understanding`**
+
+
 📍[LinkedIn](https://www.linkedin.com/in/%EC%97%B0%EC%88%98-%EA%B9%80-33899a1a2/)
 <br>
 📍[Blog](https://yskim0.github.io/)
