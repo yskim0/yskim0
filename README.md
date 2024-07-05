@@ -8,7 +8,8 @@
 📍[Blog](https://yskim0.github.io/)
 
 ### 🔭 Experiences
-- `Assistant Coach` Naver Boostcamp Data-Centric CV (2023.11 - )
+- `Research Engineer` Hanwha Aerospace Land System Dep. (2024.01 -- Present)
+- `Assistant Coach` Naver Boostcamp Data-Centric CV (2023.11 - 2023.12)
 - `Intern` Image Translation Team @ Papago, Naver Cloud (2023.04 - 2023.10)
 - `Assistant Coach` Alice AI Track 6th (2023.03 – 2023.04)
 - `Undergraduate Researcher` Visual Information Processing Lab. @ GSDS, Seoul National Univ. (2021.07 ~ 2023.02)
